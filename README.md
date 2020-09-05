@@ -1,3 +1,3 @@
 # Cursinho 
 
-### Esse é um banco de dados que gerencia um cursinho de inglês e espanhol.
+### Esse é O banco de dados que gerencia O cursinho de inglês e espanhol do meu repositório.
