@@ -1,3 +1,3 @@
 # Cursinho 
 
-### Esse é O banco de dados que gerencia O cursinho de inglês e espanhol do meu repositório "Cursinho".
+### Esse é o banco de dados que gerencia o curso de inglês e espanhol do meu repositório [Cursinho](https://github.com/talialino/Cursinho).
